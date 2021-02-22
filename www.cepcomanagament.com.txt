@@ -1,0 +1,10 @@
+website: https://www.cepcomanagement.com/
+vulnerability: None 
+panel: https://www.cepcomanagement.com/admin/
+
+Dumped:
++----------+--------------+-----+
+| username | password     | uid |
++----------+--------------+-----+
+| cmanager | CManagement@ | 1   |
++----------+--------------+-----+

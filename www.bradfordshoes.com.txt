@@ -1,0 +1,11 @@
+website: Closed
+
+Dumped:
++------------------+---------------------+-------------------------------+-----------+---------------+----------------------------------------------+------------+---------------+----------------+
+| administrator_id | datetime_created    | email_address                 | firstname | lastname      | password                                     | user_type_ | username      | varkey         |
++------------------+---------------------+-------------------------------+-----------+---------------+----------------------------------------------+------------+---------------+----------------+
+| 1                | 2011-10-05 00:00:00 | bened@i-manila.com.ph         | System    | Administrator | 1YUoXkrcUppu1vTYrlTNHEa5xO9qU3ySCc/PM+GPPw== |            | bradfordshoes | 0423201951853  |
+| 22               | 2016-06-13 00:41:01 | cristinacap93@gmail.com       | Cristina  | Capital       | VIEPVm5B3W57mgYWVFMDE8aFnDezYQfwaGWrQD/2     |            | cristinapro   | 0613201614101  |
+| 23               | 2016-06-13 00:42:49 | cristinacam93@gmail.com       | Cristina  | Capital       | UPh+dhEHdIc9gZ8kU1DeIXOt6pLobkIGre28O95H     |            | cristinamkt   | 0810201640240  |
+| 24               | 2018-04-05 00:04:09 | jessicaraigbradford@gmail.com | Jessica   | Raig          | zYqleq3jGcss/F8Xo2keDmo0B5+aI/eO7b0wEw==     |            | jessica       | 04052018120409 |
++------------------+---------------------+-------------------------------+-----------+---------------+----------------------------------------------+------------+---------------+----------------+

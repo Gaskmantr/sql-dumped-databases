@@ -1,0 +1,9 @@
+web site: http://www.pdeworks.com
+vulnerability: http://www.pdeworks.com/products.php?cat_id=11
+panel:http://www.pdeworks.com/admin/
+
+Dumped:
+user: administrator
+pass: $AgdA$Pd3#12
+
+admin panel do not working clearly
